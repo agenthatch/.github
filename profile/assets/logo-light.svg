@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" width="960" height="200" viewBox="0 0 960 200">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" width="500" height="200" viewBox="0 0 500 200">
   <title>AgentHatch</title>
   <desc>AgentHatch - AI Agent Hatching Platform</desc>
-  <g transform="translate(280, 180) scale(0.0425, -0.0425)">
+  <g transform="translate(0, 180) scale(0.0425, -0.0425)">
     <path fill="#5a8f00" d="M1905 3349 c-49 -27 -128 -68 -173 -92 -96 -48 -45 21 -444 -606
 l-66 -103 27 -47 c15 -25 65 -106 110 -180 44 -74 80 -135 79 -136 -2 -2 -52
 26 -113 60 -60 35 -113 61 -117 58 -5 -2 -8 -17 -8 -33 0 -16 -5 -50 -10 -77
@@ -32,8 +32,8 @@ c57 30 126 66 153 81 l50 28 50 -27 c28 -14 94 -51 149 -81z m-154 -669 c0
     <path fill="#5a8f00" d="M1510 2456 c0 -4 19 -32 41 -62 30 -39 67 -70 133 -111 50 -31 101 -63 114 -71 22 -14 22 -13 -8 68 -17 45 -34 89 -39 98 -11 20 -241 94 -241 78z"/>
     <path fill="#5a8f00" d="M2485 2456 c0 -4 -19 -32 -41 -62 -30 -39 -67 -70 -133 -111 -50 -31 -101 -63 -114 -71 -22 -14 -22 -13 8 68 17 45 34 89 39 98 11 20 241 94 241 78z"/>
   </g>
-  <text x="445" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" 
+  <text x="165" y="100" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" 
         font-size="56" font-weight="800" fill="#1a2d00" letter-spacing="-1">agenthatch</text>
-  <text x="447" y="140" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" 
+  <text x="167" y="140" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" 
         font-size="17" font-weight="500" fill="#5a8f0066" letter-spacing="4">AI AGENT HATCHING PLATFORM</text>
 </svg>
