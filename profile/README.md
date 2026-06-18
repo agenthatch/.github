@@ -34,9 +34,7 @@ One hatch, infinite agents.
 
 ### Community
 
-<!-- TODO: add community channels -->
-- Discord: coming soon
-- X/Twitter: coming soon
+- X/Twitter: [@EterRights](https://x.com/EterRights)
 
 ---
 
